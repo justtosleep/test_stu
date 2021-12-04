@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616298840 source:c:\users\16506\desktop\mthfiles\codeblocks data\instack\main.cpp
+	"ex.h"
+
+1616298829 c:\users\16506\desktop\mthfiles\codeblocks data\instack\ex.h
+	<iostream>
+

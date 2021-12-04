@@ -1,0 +1,6 @@
+a=input(123)
+print(a)
+a=input(123)
+print(a)
+a=input(123)
+print(a)

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616069631 source:c:\users\16506\desktop\mthfiles\codeblocks data\inex\main.cpp
+	"ex.h"
+
+1616069822 c:\users\16506\desktop\mthfiles\codeblocks data\inex\ex.h
+	<iostream>
+	<cstring>
+	<cmath>
+
+1615788618 source:c:\users\16506\desktop\mthfiles\codeblocks data\inex\ex.cpp
+	"ex.h"
+

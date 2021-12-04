@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620193678 source:c:\users\16506\desktop\mthfiles\codeblocks data\maxpriorityqueue\main.cpp
+	"ex.h"
+
+1620193705 c:\users\16506\desktop\mthfiles\codeblocks data\maxpriorityqueue\ex.h
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624179097 source:d:\mthfiles\codeblocks data\graph\main.cpp
+	"ex.h"
+
+1624182476 d:\mthfiles\codeblocks data\graph\ex.h
+	<iostream>
+

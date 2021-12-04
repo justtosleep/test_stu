@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616296737 source:c:\users\16506\desktop\mthfiles\codeblocks data\pailie\main.cpp
+	"ex.h"
+
+1616296874 c:\users\16506\desktop\mthfiles\codeblocks data\pailie\ex.h
+	<iostream>
+

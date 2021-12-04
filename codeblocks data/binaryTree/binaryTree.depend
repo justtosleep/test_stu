@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619361690 source:c:\users\16506\desktop\mthfiles\codeblocks data\binarytree\main.cpp
+	"ex.h"
+
+1619361690 c:\users\16506\desktop\mthfiles\codeblocks data\binarytree\ex.h
+	<iostream>
+

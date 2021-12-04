@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616392724 source:c:\users\16506\desktop\mthfiles\codeblocks data\ack\main.cpp
+	"ex.h"
+
+1616393099 c:\users\16506\desktop\mthfiles\codeblocks data\ack\ex.h
+	<iostream>
+

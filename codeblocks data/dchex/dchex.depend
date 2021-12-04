@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1616069098 source:c:\users\16506\desktop\mthfiles\codeblocks data\dchex\main.cpp
+	"ex.h"
+
+1616069253 c:\users\16506\desktop\mthfiles\codeblocks data\dchex\ex.h
+	<iostream>
+	<cstring>
+	<cmath>
+
